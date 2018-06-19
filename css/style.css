@@ -10,8 +10,11 @@
     
     .koolKanadians{
       background-color: orange;
-      Border:red 15px soild;
+      Border:red 15px;
       font-size: 80px;
       text-align: center;
     }
     
+    #tophersclass {
+     color:orange; 
+    }
